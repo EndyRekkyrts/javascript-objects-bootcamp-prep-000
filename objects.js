@@ -1,7 +1,7 @@
 var playlist = {"Phil Ochs": "Here's to the State of Mississippi", Kanye: "Gold Digger"}
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[artist] = song
+  playlist[artistName] = songTitle
   
   return playlist
 }
