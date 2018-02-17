@@ -2,7 +2,6 @@ var playlist = {"Phil Ochs": "Here's to the State of Mississippi", Kanye: "Gold 
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artis] = song
-  return playlist
 }
 
 function removeFromPlaylist(playlist, artistName) {
